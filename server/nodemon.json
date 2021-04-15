@@ -1,0 +1,9 @@
+{
+  "verbose": true,
+  "watch": ["./src/**/*", "index.ts"],
+  "exec": "tsc",
+  "execMap": {
+    "ts": "ts-node"
+  },
+  "ext": "ts"
+}
